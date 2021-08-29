@@ -1,0 +1,57 @@
+
+body {
+    background-color: white;
+
+}
+
+.titulo-principal {
+    font-size: 28pt;
+}
+
+#img-banner {
+    width: 100%;
+}
+
+.sobre {
+    background-color: gainsboro;
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    font-size: 20pt;
+    text-align: center;
+}
+
+strong em {
+    color: blue;
+}
+
+.beneficios {
+    background-color: white;
+}
+
+.beneficios h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+#benefic{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#img-beneficios {
+    width: 50%;
+}
+
+
